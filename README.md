@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building Cyber Matrix – a cutting-edge cybersecurity toolkit packed with features like network scanning, CVE reporting, penetration testing tools, and more.<br><br>👯 I’m looking to collaborate on<br>🚀 Full-stack web applications<br>🤖 AI-powered applications<br>🌍 Open-source projects that push boundaries<br><br>💬 Ask me about<br>💻 Web development (React, Node.js, MongoDB)<br>🛠 Solving tricky tech problems<br><br>🚀 Always open to learning, collaborating, and building awesome things!
+🔭 I’m currently working on<br>Building Cyber Matrix – a cutting-edge cybersecurity toolkit packed with features like network scanning, CVE reporting, penetration testing tools, and more.<br><br>👯 I’m looking to collaborate on<br>🚀 Full-stack web applications<br>🤖 AI-powered applications<br>🌍 Open-source projects that push boundaries<br><br>💬 Ask me about<br>💻 Web development <br>🛠 Solving tricky tech problems<br><br>🚀 Always open to learning, collaborating, and building awesome things!
 
 
 ## 🌐 Socials:
